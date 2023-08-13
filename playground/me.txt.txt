@@ -1,3 +1,0 @@
-Name: Spandana
-Skills: HTML, CSS, JS, React.js, Bootstrap
-Email: spandana.edu02@gmail.com
